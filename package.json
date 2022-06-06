@@ -1,0 +1,23 @@
+{
+  "name": "twig-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js --config nodemon.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "js-yaml": "^4.1.0",
+    "livereload": "^0.9.3",
+    "twig": "^1.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

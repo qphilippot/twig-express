@@ -1,0 +1,10 @@
+/* setup your default style here */
+
+h1 {
+    color:blue;
+}
+
+#twig-image {
+    height: 300px;
+    width: 300px;
+}

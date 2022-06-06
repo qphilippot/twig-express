@@ -1,0 +1,4 @@
+site:
+  language: fr,
+  title: 'twig-express'
+  name: 'demo-twig-express'
